@@ -185,3 +185,8 @@ div.container a.brand {
 img.avatar {
     max-width: 80px;
 }
+
+
+img.avatar-list {
+    max-width: 55px;
+}
